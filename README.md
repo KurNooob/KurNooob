@@ -1,6 +1,6 @@
 <h1 align="center">Hello there ^^ I'm Brandon Likurniawan</h1>
 <h3 align="center">I'm currently searching for my calling in programing</h3>
-<img align="right" alt="cat_stress" width ="400" src=https://media1.tenor.com/m/pFz1Q12_hXEAAAAd/cat-holding-head-cat.gif>
+<img align="right" alt="cat_stress" width ="300" src=https://media1.tenor.com/m/pFz1Q12_hXEAAAAd/cat-holding-head-cat.gif>
 
 - 🔭 I’m currently working on **finding my field of foucs**
 
