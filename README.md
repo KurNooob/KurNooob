@@ -2,10 +2,6 @@
 <h3 align="center">I'm currently searching for my calling in programing</h3>
 <img align="right" alt="cat_stress" width ="400" src=https://media1.tenor.com/m/pFz1Q12_hXEAAAAd/cat-holding-head-cat.gif>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kurnooob&label=Profile%20views&color=0e75b6&style=flat" alt="kurnooob" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kurnooob" alt="kurnooob" /></a> </p>
-
 - 🔭 I’m currently working on **finding my field of foucs**
 
 - 🌱 I’m currently learning **Python** and a little bit of **data analysis**
