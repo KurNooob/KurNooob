@@ -1,8 +1,8 @@
 <h1 align="center">Hello there ^^ I'm Brandon Likurniawan</h1>
-<h3 align="center">I'm currently searching for my calling in programing</h3>
+<h3 align="center">Trying new things and searching for my calling in programing</h3>
 <img align="right" alt="cat_stress" width ="300" src=https://media1.tenor.com/m/pFz1Q12_hXEAAAAd/cat-holding-head-cat.gif>
 
-- 🔭 I’m currently working on **finding my field of foucs**
+- 🔭 I’m currently working on **myself to become a better person**
 
 - 🌱 I’m currently learning **Python** and a little bit of **data analysis**
 
